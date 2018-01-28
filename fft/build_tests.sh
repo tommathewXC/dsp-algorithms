@@ -1,0 +1,1 @@
+gcc test.c tComplex.c fft.c -o unittest -lm; ./unittest
