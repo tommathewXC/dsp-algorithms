@@ -1,1 +1,0 @@
-gcc main.c tComplex.c fft.c; ./a.out
