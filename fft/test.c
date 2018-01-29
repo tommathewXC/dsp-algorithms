@@ -82,10 +82,6 @@ void FFT_Test(){
 	space(3);
 }
 
-void SFFT_Test(){
-	int vectorSize = 4;
-	printf("%f\n", ceil(log2(vectorSize)) - floor(log2(vectorSize)));
-}
 int main(){
 	FFT_Test();
 	return 0;
